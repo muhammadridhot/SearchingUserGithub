@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (5.6.0)
+  - JASON (3.1)
+  - Kingfisher (7.2.1)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (15.0.0):
+    - Moya/Core
+    - RxSwift (~> 6.0)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - JASON (= 3.1)
+  - Kingfisher (= 7.2.1)
+  - Moya/RxSwift (= 15.0.0)
+  - RxCocoa (= 6.5.0)
+  - RxSwift (= 6.5.0)
+  - SnapKit (= 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - JASON
+    - Kingfisher
+    - Moya
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 0c07058209f211e3d32824f8e0766d7c44ac83b3
+  JASON: c1204b01c9979eef35b6948ca939aac5e7bef081
+  Kingfisher: 7c084bebf7d548c623ad41bcf765fb200efed369
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 594577a46ff5ec00ea33b544f5610ea36ccd2484
+
+COCOAPODS: 1.11.2
